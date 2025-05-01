@@ -1,0 +1,98 @@
+/*
+CSS for Bubble Under site
+*/
+
+body {
+	font-family: Verdana, Helvetica, Arial, sans-serif;
+	background-color: #d3e8f0;
+	line-height: 125%;
+	padding: 15px;
+}
+
+h1 {
+	font-family: "Trebuchet MS", Helvetica, Arial, sans-serif;
+	font-size: x-large;
+	text-align: center;
+	background-color: #b3cbe3;
+	color: black
+}
+
+h2 {
+	font-family: Georgia, Times New Roman, Verdana, Helvetica, Arial, sans-serif;
+	font-size: medium;
+	font-weight: normal;
+	text-align: center;
+	color: navy
+}
+
+h3 {
+	font-family: Georgia, Times New Roman, Verdana, Helvetica, Arial, sans-serif;
+	font-size: medium;
+	font-weight: normal;
+	text-align: center;
+	color: navy
+}
+
+li {
+	font-size: small;
+}
+
+p {
+	font-size: small;
+	color: black;
+	    text-indent: 50px; 
+    margin-left: 20px; 
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+a {
+	font-weight: bold;
+}
+
+a:link {
+	color: navy;
+}
+
+a:visited {
+	color: gray;
+}
+a:hover {
+	text-decoration: none;
+	color: white;
+	background-color: navy;
+}
+a:active {
+	color: aqua;
+	background-color: navy;
+}
+
+.fun {
+	color: #187070;
+	font-family: Georgia, Times, serif;
+	letter-spacing: 0.05em;
+}
+
+blockquote.fun {
+	font-style: italic;
+	text-align: center
+}
+
+blockquote.elegant {
+	font-family: Georgia, Times New Roman, Verdana, Helvetica, Arial, sans-serif;
+	font-style: normal;
+	text-align: center
+}
+
+li {
+	color: brown;
+}
+
+#tagline p {
+	font-style: italic;
+	font-family: Georgia, Times, serif;
